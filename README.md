@@ -1,7 +1,5 @@
 # ToDo List Application
 
-![ToDo List Application](https://github.com/Sem-Ir-dev/ToDoList-PythonTkinter-/blob/main/screenshot/ToDoScreen.JPG)
-
 This is a simple ToDo List application built with Python and Tkinter. It allows users to add, delete, clear, save, and open tasks. This project demonstrates basic GUI functionality in Python and is a great starting point for beginners.
 
 ## Features
